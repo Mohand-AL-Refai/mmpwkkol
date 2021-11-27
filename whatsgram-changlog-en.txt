@@ -1,4 +1,4 @@
-Version 2.00 Changelog:
+Version 2.96 Changelog:
 
 >[Fixed] a crash when updating the follower list
 >[Fixed] The problem of duplicate icons when installing the update
